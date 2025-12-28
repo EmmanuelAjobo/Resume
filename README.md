@@ -1,5 +1,5 @@
 # EMMANUEL AJOBO
-**Blockchain Engineer**
+**Blockchain Developer**
 
 **+2347011566507** | ajoboemmanuel04@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/emmanuel-ajobo/) | [GitHub](https://github.com/TechDevAudit) | [Portfolio](https://my-portfolio2-nine-tau.vercel.app/)  
