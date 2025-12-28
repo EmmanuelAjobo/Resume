@@ -34,21 +34,17 @@ Blockchain Engineer with 3+ years of experience designing, developing, and deplo
 **Cantina | Code4Rena | CodeHawks** — Remote  
 *August 2023 - Present*
 
-- Designed and deployed secure smart contracts for multiple DeFi protocols processing $50M+ in total value locked, implementing advanced security patterns including reentrancy guards, access control mechanisms, and economic exploit prevention
+- Developed and deployed secure smart contracts for DeFi protocols by implementing advanced security patterns including reentrancy guards and access control mechanisms, resulting in $50M+ in total value locked with zero security incidents
 
-- Developed and integrated Chainlink oracle solutions for 5+ protocols requiring real-time price feeds, enabling accurate on-chain financial calculations and cross-chain data verification with 99.9% uptime
+- Architected gas-optimized smart contract systems by redesigning storage patterns and algorithm implementations, achieving 15-30% reduction in transaction costs across production deployments
 
-- Architected and implemented gas-optimized smart contract systems reducing transaction costs by 15-30% through storage pattern optimization, efficient algorithm design, and compiler-level optimizations across production deployments
+- Integrated Chainlink oracle solutions for 5+ protocols by implementing real-time price feed mechanisms and cross-chain data verification, achieving 99.9% uptime and enabling accurate on-chain financial calculations
 
-- Collaborated with cross-functional teams of developers, product managers, and security specialists across 20+ protocol audits, delivering comprehensive technical documentation and remediation guidance that accelerated launch timelines by 2-3 weeks
+- Collaborated with cross-functional teams of 20+ developers, product managers, and security specialists by conducting comprehensive code reviews and delivering technical documentation, accelerating protocol launch timelines by 2-3 weeks
 
-- Conducted rigorous code reviews and security assessments identifying critical vulnerabilities including reentrancy attacks, access control flaws, and economic exploits, preventing potential loss of user funds
+- Built and executed 20+ proof-of-concept exploits using Foundry and Echidna fuzzing frameworks by identifying critical vulnerabilities including reentrancy attacks and access control flaws, preventing potential loss of user funds
 
-- Built and executed 20+ proof-of-concept exploits using Foundry and Echidna fuzzing frameworks to validate vulnerabilities and demonstrate real-world exploitability to development teams
-
-- Contributed to blockchain security methodology improvements by creating reusable vulnerability detection patterns and security best practices documentation adopted across audit platforms
-
-- Stayed current with emerging blockchain standards and regulations, integrating EIP proposals and security research findings into audit methodologies
+- Contributed to blockchain security methodology improvements by creating reusable vulnerability detection patterns and best practices documentation, which were adopted across audit platforms to enhance industry standards
 
 ---
 
@@ -57,17 +53,17 @@ Blockchain Engineer with 3+ years of experience designing, developing, and deplo
 ### **PUPPYRAFFLE NFT LOTTERY PROTOCOL**  
 **Remote** — *September 2024 - February 2025*
 
-- Architected and deployed production-ready NFT raffle dApp processing 100+ participant entries with automated winner selection using Chainlink VRF for provably random and tamper-proof lottery mechanics
+- Architected and deployed production-ready NFT raffle dApp by implementing automated winner selection with Chainlink VRF integration, processing 100+ participant entries with provably random and tamper-proof lottery mechanics
 
-- Developed full-stack decentralized application with Web3.js frontend integration enabling MetaMask wallet connections, real-time entry tracking, and seamless user interactions with smart contract functions
+- Developed full-stack decentralized application by integrating Web3.js frontend with smart contracts, enabling MetaMask wallet connections and real-time entry tracking for seamless user interactions
 
-- Implemented dynamic on-chain NFT metadata generation for 3-tier rarity system (Common, Rare, Legendary) using Base64 encoding and custom tokenURI functions, eliminating centralized metadata dependencies and ensuring permanent availability
+- Implemented dynamic on-chain NFT metadata generation by developing custom tokenURI functions with Base64 encoding for 3-tier rarity system, eliminating centralized metadata dependencies and ensuring permanent availability
 
-- Optimized gas costs by 25% through efficient array manipulation and storage patterns in entry management system handling 100+ concurrent users, refund processing, winner selection, and automated prize pool distribution (80/20 split model)
+- Optimized gas costs by 25% by redesigning array manipulation and storage patterns in entry management system, enabling efficient handling of 100+ concurrent users with automated prize pool distribution
 
-- Integrated IPFS for decentralized asset storage with automated rarity-based trait assignment, ensuring permanent NFT image availability and reducing hosting costs to zero
+- Integrated IPFS for decentralized asset storage by implementing automated rarity-based trait assignment, ensuring permanent NFT image availability and reducing hosting costs to zero
 
-- Achieved 95% test coverage using Foundry framework with comprehensive unit tests, integration tests, and edge case validation for all contract functions
+- Achieved 95% test coverage by developing comprehensive unit tests, integration tests, and edge case validation using Foundry framework for all contract functions
 
 - **Technologies:** Solidity, OpenZeppelin (ERC-721, Ownable), Chainlink VRF, Base64, IPFS, Web3.js, JavaScript
 
@@ -76,32 +72,19 @@ Blockchain Engineer with 3+ years of experience designing, developing, and deplo
 ### **FUNDME CROWDFUNDING PLATFORM**  
 **Remote** — *April 2024 - August 2024*
 
-- Designed and deployed multi-network crowdfunding dApp supporting ETH donations with real-time USD price conversion across Ethereum mainnet, Sepolia testnet, and Polygon using Chainlink AggregatorV3Interface for accurate minimum funding thresholds
+- Designed and deployed multi-network crowdfunding dApp by implementing Chainlink AggregatorV3Interface for real-time USD price conversion, supporting ETH donations across Ethereum mainnet, Sepolia testnet, and Polygon with accurate minimum funding thresholds
 
-- Built responsive Web3 frontend with Ethers.js enabling seamless wallet integration (MetaMask, WalletConnect) and real-time campaign progress tracking, serving 50+ test users during beta phase
+- Built responsive Web3 frontend by integrating Ethers.js with MetaMask and WalletConnect, enabling seamless wallet integration and real-time campaign progress tracking for 50+ test users during beta phase
 
-- Reduced transaction costs by 40% by implementing gas-optimized withdrawal mechanism with custom error handling, replacing expensive require strings and implementing efficient modifier-based access control patterns
+- Reduced transaction costs by 40% by implementing gas-optimized withdrawal mechanism with custom error handling, replacing expensive require strings with efficient modifier-based access control patterns
 
-- Developed reusable PriceConverter library enabling seamless ETH/USD conversions across multiple EVM networks, subsequently adopted in 5+ follow-up projects for consistent price feed integration
+- Developed reusable PriceConverter library by creating standardized ETH/USD conversion functions across multiple EVM networks, which was subsequently adopted in 5+ follow-up projects for consistent price feed integration
 
-- Implemented comprehensive owner controls for fund management and withdrawal authorization with multi-signature security considerations for production deployment readiness
+- Achieved 100% test coverage by implementing comprehensive unit tests, integration tests, and fork testing using Foundry framework against live Chainlink price feeds with gas profiling optimization
 
-- Achieved 100% test coverage using Foundry framework with unit tests, integration tests, fork testing against live Chainlink price feeds, and gas profiling optimization
-
-- Documented complete API specification and integration guide for smart contract functions, enabling third-party developers to build compatible frontend applications
+- Documented complete API specification by creating integration guide for smart contract functions, enabling third-party developers to build compatible frontend applications
 
 - **Technologies:** Solidity 0.8.18, Chainlink Price Feeds, OpenZeppelin, Foundry, Ethers.js, TypeScript
-
----
-
-### **CROSS-CHAIN BRIDGE DEVELOPMENT** (If applicable - add if you have experience)  
-**Remote** — *Dates*
-
-- Developed cross-chain bridge infrastructure enabling asset transfers between Ethereum and Polygon networks using lock-and-mint mechanism with cryptographic proof validation
-
-- Implemented secure message passing protocol for cross-chain state verification and event synchronization ensuring atomic transaction finality
-
-- **Technologies:** Solidity, Web3.js, Merkle Trees, Cryptographic Hashing
 
 ---
 
@@ -110,15 +93,13 @@ Blockchain Engineer with 3+ years of experience designing, developing, and deplo
 ### **PANOPTIC HYPOVAULT PROTOCOL - CRITICAL VULNERABILITY DISCOVERY**  
 **Remote** — *June 2024 - July 2024*
 
-- Identified and reported critical zero-value deposit vulnerability enabling storage griefing attacks that could degrade protocol performance and create DOS conditions affecting legitimate users
+- Identified and reported critical zero-value deposit vulnerability by conducting comprehensive threat modeling and code analysis, preventing storage griefing attacks that could create DOS conditions affecting legitimate users
 
-- Prevented Sybil attack vectors where malicious actors could create thousands of zero-value positions to manipulate queue ordering, block legitimate deposits, and exploit gas-subsidized operations
+- Prevented Sybil attack vectors by analyzing economic attack surface and modeling worst-case scenarios, demonstrating how malicious actors could create thousands of zero-value positions to manipulate queue ordering and increase transaction costs by 300%+
 
-- Conducted comprehensive economic attack modeling demonstrating how queue bloat could increase transaction costs by 300%+ for legitimate users and compromise long-term protocol scalability
+- Delivered detailed remediation report by developing proof-of-concept exploit code in Foundry with gas cost analysis and architectural recommendations, including minimum deposit thresholds and enhanced validation logic
 
-- Delivered detailed remediation report including proof-of-concept exploit code in Foundry, gas cost analysis, and architectural recommendations (minimum deposit thresholds and enhanced validation logic)
-
-- Collaborated with protocol development team through responsible disclosure process, protecting protocol integrity before mainnet deployment and safeguarding user experience
+- Collaborated with protocol development team through responsible disclosure process by providing actionable guidance and code snippets, protecting protocol integrity before mainnet deployment and safeguarding user experience
 
 ---
 
